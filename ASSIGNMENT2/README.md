@@ -1,4 +1,4 @@
-#  FastAPI Day 2 Assignment
+#  FastAPI Assignment 2
 
 This project contains **practice tasks for learning FastAPI concepts** such as:
 
