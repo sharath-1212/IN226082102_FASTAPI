@@ -1,4 +1,4 @@
-# 🚀 FastAPI Day 4 – CRUD Operations Project
+# 🚀 FastAPI  – CRUD Operations 
 
 This project demonstrates complete **CRUD operations using FastAPI** as part of internship training practice.
 
