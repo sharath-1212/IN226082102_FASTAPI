@@ -1,6 +1,6 @@
 
 
-```
+```markdown
 #  FastAPI Project – Search, Sort & Pagination API
 
 This project is developed as part of the **FastAPI Internship Training – Day 6 Assignment**.  
