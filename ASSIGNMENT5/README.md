@@ -1,5 +1,5 @@
-```markdown
-# 🚀 FastAPI –  Assignment 5 (Search, Sort & Pagination)
+```
+#  FastAPI –  Assignment 5 (Search, Sort & Pagination)
 
 This project demonstrates implementation of **real-world API features** using FastAPI such as:
 
